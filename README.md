@@ -8,7 +8,7 @@ A custom V2ray Version 3 built for Debian / Ubuntu Servers.
 ### Installation
 
 ```
-wget https://raw.githubusercontent.com/johndesu090/XRay-Trojan-XTLS/master/install.sh && chmod +x install.sh && ./install.sh
+curl -fsSL https://raw.githubusercontent.com/johndesu090/XRay-Trojan-XTLS/master/install.sh -o ~/install.sh && bash ~/install.sh
 ```
 
 ## DONATIONS
