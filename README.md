@@ -1,4 +1,4 @@
-# Project XRay
+# XRay-Trojan-XTLS
 A custom V2ray Version 3 built for Debian / Ubuntu Servers.
 
 [![Logo](https://www.unex.com.tw/uploads/productsliders/5bda640e051c0.png)](https://github.com/johndesu090/XRay-Trojan-XTLS)
